@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be7493f5053c43adce92c26812aad670",
+    "revision": "d648de34710e996ab58fb9d84f9a6c0c",
     "url": "/Shopify-Frontend-Challenge/index.html"
   },
   {
-    "revision": "e24d9ad91e27ac2e3996",
+    "revision": "d8c042ba5d7111ce8dee",
     "url": "/Shopify-Frontend-Challenge/static/css/main.e065b7d0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Shopify-Frontend-Challenge/static/js/2.f3d68bdc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e24d9ad91e27ac2e3996",
-    "url": "/Shopify-Frontend-Challenge/static/js/main.257aeb21.chunk.js"
+    "revision": "d8c042ba5d7111ce8dee",
+    "url": "/Shopify-Frontend-Challenge/static/js/main.295f720f.chunk.js"
   },
   {
     "revision": "3d923a9519bdce9dff30",
