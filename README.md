@@ -3,7 +3,7 @@
 
 https://elena-pan.github.io/Shopify-Frontend-Challenge/
 
-A web application that calculates pulls images from NASA's Mars Rover Photos API and displays them with descriptive data, as well as allowing users to like and unlike images. The user's likes are saved even if they leave or refresh the page. This project was created for the [Shopify Winter 2022 Front End Developer Intern Challenge](https://docs.google.com/document/d/1QlC6htA5SXEl3YruAOkJWj2-0W3w-n0UOzGuJ1EcktQ/edit)
+A web application that calculates pulls images from NASA's Mars Rover Photos API and displays them with descriptive data, as well as allowing users to like and unlike images. The user's likes are saved even if they leave or refresh the page. This project was created for the [Shopify Winter 2022 Front End Developer Intern Challenge](https://docs.google.com/document/d/1QlC6htA5SXEl3YruAOkJWj2-0W3w-n0UOzGuJ1EcktQ/edit).
 
 
 [Features](#features) \
