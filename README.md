@@ -1,6 +1,8 @@
 
 # Marstagram - Shopify Frontend Challenge
 
+https://elena-pan.github.io/Shopify-Frontend-Challenge/
+
 A web application that calculates pulls images from NASA's Mars Rover Photos API and displays them with descriptive data, as well as allowing users to like and unlike images. The user's likes are saved even if they leave or refresh the page.
 
 
